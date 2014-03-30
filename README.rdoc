@@ -1,3 +1,8 @@
+----
+
+ 一个Rails的简单blog模型搭建练习 用于初学者(不含页面效果)
+
+----
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
